@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,6 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# railstudy
+>>>>>>> e4d5a743a0d4ba3b023c37a0d70db06411b62d51
